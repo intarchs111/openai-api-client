@@ -124,9 +124,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Suyog Hire: [LinkedIn@suyoghire](https://www.linkedin.com/suyoghire) \
-Email: [intarchs111@gmail.com](mailto:intarchs111@gmail.com) \
-Project Link: https://github.com/intarchs111/openai-api
+Suyog Hire: [LinkedIn](https://www.linkedin.com/suyoghire) \
+**OpenAI API Client** - Project Link: [GitHub](https://github.com/intarchs111/openai-api)
 
 ## Acknowledgments
 
