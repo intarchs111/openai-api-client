@@ -3,6 +3,7 @@
 
 A simple demonstration of the OpenAI API's Responses endpoint, showcasing how to make API calls and retrieve model outputs using Python.
 
+[![openai-api](https://img.shields.io/badge/Repo-openai--api-blue?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api)
 ## Features
 
 - Environment-based API key management for security
@@ -124,8 +125,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Suyog Hire: [LinkedIn](https://www.linkedin.com/suyoghire) \
-**OpenAI API Client** - Project Link: [GitHub](https://github.com/intarchs111/openai-api)
+**Suyog Hire**
+
+[![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-17%2B%20Years-blue?style=for-the-badge)](https://github.com/intarchs111) 
+
+**OpenAI Responses API Client**   
+
+[![openai-api](https://img.shields.io/badge/Repo-openai--api-blue?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api)
 
 ## Acknowledgments
 
