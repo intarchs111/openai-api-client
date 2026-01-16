@@ -1,9 +1,14 @@
 
-# OpenAI API Client Demo
+# OpenAI API Client Demo 
+*Created by [Suyog Hire](https://github.com/intarchs111)* 
+
+[![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-17%2B%20Years-blue?style=flat-square)](https://github.com/intarchs111) 
+[![openai-api](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
 
 A simple demonstration of the OpenAI API's Responses endpoint, showcasing how to make API calls and retrieve model outputs using Python.
 
-[![openai-api](https://img.shields.io/badge/Repo-openai--api-blue?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api)
+[![openai-api](https://img.shields.io/badge/Repo-openai--api--invocation-blue?style=flat&logo=github)](https://github.com/intarchs111/openai-api)
+
 ## Features
 
 - Environment-based API key management for security
@@ -123,15 +128,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-**Suyog Hire**
-
-[![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-17%2B%20Years-blue?style=for-the-badge)](https://github.com/intarchs111) 
-
 **OpenAI Responses API Client**   
 
-[![openai-api](https://img.shields.io/badge/Repo-openai--api-blue?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api)
+[![openai-api](https://img.shields.io/badge/Repo-openai--api--invocation-blue?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api)
 
 ## Acknowledgments
 
@@ -140,3 +139,13 @@ This project utilizes established open-source libraries and official documentati
 - **OpenAI Python SDK** – The official library for interacting with OpenAI APIs.
 - **​OpenAI API Reference** – Comprehensive documentation for the Responses API endpoint.
 - **​python-dotenv** – For loading environment variables from .env files securely.
+
+---
+
+<div align="center">
+
+## **Suyog Hire** 
+
+**AI Solutions Architect** | **17+ Years delivering Enterprise Software Solutions**
+
+[![openai-api](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
