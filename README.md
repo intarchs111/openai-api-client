@@ -2,12 +2,10 @@
 # OpenAI API Client Demo 
 *Created by [Suyog Hire](https://github.com/intarchs111)* 
 
-[![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-17%2B%20Years-blue?style=flat-square)](https://github.com/intarchs111) 
-[![openai-api](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
+![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-17%2B%20Years-blue?style=flat-square) 
+[![github-profile](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
 
 A simple demonstration of the OpenAI API's Responses endpoint, showcasing how to make API calls and retrieve model outputs using Python.
-
-[![openai-api](https://img.shields.io/badge/Repo-openai--api--invocation-blue?style=flat&logo=github)](https://github.com/intarchs111/openai-api)
 
 ## Features
 
@@ -26,10 +24,12 @@ Before running this project, ensure you have:
 
 ## Installation
 
+[![openai-api-client](https://img.shields.io/badge/Repo-openai--api--client-purple?style=flat&logo=github)](https://github.com/intarchs111/openai-api-client)
+
 1. **Clone the repository**
 
 ```bash
-  git clone https://github.com/intarchs111/openai-api.git
+  git clone https://github.com/intarchs111/openai-api-client.git
   cd openai-api
 ```
 
@@ -128,9 +128,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Repository
 **OpenAI Responses API Client**   
 
-[![openai-api](https://img.shields.io/badge/Repo-openai--api--invocation-blue?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api)
+[![openai-api-client](https://img.shields.io/badge/Repo-openai--api--client-purple?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api-client)
 
 ## Acknowledgments
 
@@ -144,8 +145,8 @@ This project utilizes established open-source libraries and official documentati
 
 <div align="center">
 
-## **Suyog Hire** 
 
-**AI Solutions Architect** | **17+ Years delivering Enterprise Software Solutions**
+### **Suyog Hire** | **AI Solutions Architect**
+![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-17%2B%20Years-blue?style=flat-square) [![github-profile](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
 
-[![openai-api](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
+</div>
