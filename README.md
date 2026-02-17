@@ -34,7 +34,7 @@ Before running this project, ensure you have:
 
 ```bash
   git clone https://github.com/intarchs111/openai-api-client.git
-  cd openai-api
+  cd openai-api-client
 ```
 
 2. **Install required dependencies**
