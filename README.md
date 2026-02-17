@@ -1,9 +1,13 @@
 
 # OpenAI API Client Demo 
-***Created by: [Suyog Hire - Solutions Architect](https://linkedin.com/in/suyoghire)***
 
 ![Architecture](https://img.shields.io/badge/Pattern-OpenAI%20Integration-blue)
+[![openai-api-client](https://img.shields.io/badge/Github-openai--api--client-purple?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api-client)
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
+
+***Created by: [Suyog Hire - Solutions Architect](https://linkedin.com/in/suyoghire)***
+
+---
 
 A simple demonstration of the OpenAI API's Responses endpoint, showcasing how to make API calls and retrieve model outputs using Python.
 
@@ -24,7 +28,7 @@ Before running this project, ensure you have:
 
 ## Installation
 
-[![openai-api-client](https://img.shields.io/badge/Repo-openai--api--client-purple?style=flat&logo=github)](https://github.com/intarchs111/openai-api-client)
+[![openai-api-client](https://img.shields.io/badge/Github-openai--api--client-purple?style=flat&logo=github)](https://github.com/intarchs111/openai-api-client)
 
 1. **Clone the repository**
 
@@ -131,7 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Repository
 **OpenAI Responses API Client**   
 
-[![openai-api-client](https://img.shields.io/badge/Repo-openai--api--client-purple?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api-client)
+[![openai-api-client](https://img.shields.io/badge/Github-openai--api--client-purple?style=flat-square&logo=github)](https://github.com/intarchs111/openai-api-client)
 
 ## Acknowledgments
 
