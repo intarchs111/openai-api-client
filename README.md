@@ -1,9 +1,9 @@
 
 # OpenAI API Client Demo 
-*Created by [Suyog Hire](https://github.com/intarchs111)* 
+***Created by: [Suyog Hire - Solutions Architect](https://linkedin.com/in/suyoghire)***
 
-![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-17%2B%20Years-blue?style=flat-square) 
-[![github-profile](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
+![Architecture](https://img.shields.io/badge/Pattern-OpenAI%20Integration-blue)
+![Python](https://img.shields.io/badge/python-3.10+-blue)
 
 A simple demonstration of the OpenAI API's Responses endpoint, showcasing how to make API calls and retrieve model outputs using Python.
 
@@ -18,7 +18,7 @@ A simple demonstration of the OpenAI API's Responses endpoint, showcasing how to
 
 Before running this project, ensure you have:
 
-- Python 3.9 or higher
+- Python 3.10 or higher
 - An OpenAI API account and API key ([sign up here](https://platform.openai.com/signup))
 - pip (Python package manager)
 
@@ -147,6 +147,6 @@ This project utilizes established open-source libraries and official documentati
 
 
 ### **Suyog Hire** | **AI Solutions Architect**
-![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-17%2B%20Years-blue?style=flat-square) [![github-profile](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
+[![github-profile](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
 
 </div>
